@@ -1,0 +1,13 @@
+@media screen and (max-width:500px){
+    @keyframes IsBoucing {
+     to{
+        transform: translatey(10px);
+     }   
+    }
+.isboucing{
+    animation: IsBoucing steps(8) linear;
+}
+.teste{
+    display: block;
+}
+}
