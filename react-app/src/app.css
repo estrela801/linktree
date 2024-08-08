@@ -1,0 +1,7 @@
+.container-geral{
+    background-image: linear-gradient(90deg, rgb(12, 12, 106) 10%,rgb(11, 29, 101));
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
