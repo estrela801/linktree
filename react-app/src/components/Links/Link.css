@@ -1,0 +1,9 @@
+.container-links{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.link{
+    color: black;
+    margin: 10px;
+}
